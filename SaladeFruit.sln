@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.329
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaladeFruit", "SaladeFruit\SaladeFruit.csproj", "{2C36937F-E154-44F2-871A-DD6ADC8DB61C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo1", "SaladeFruit\Exo1.csproj", "{2C36937F-E154-44F2-871A-DD6ADC8DB61C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo2", "Exo2\Exo2.csproj", "{A900C026-E1EE-45B3-A2F3-01EB5D33BD83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo3", "Exo3\Exo3.csproj", "{A3A01432-FFE8-484D-8B58-B57D0BCD02FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{2C36937F-E154-44F2-871A-DD6ADC8DB61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C36937F-E154-44F2-871A-DD6ADC8DB61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C36937F-E154-44F2-871A-DD6ADC8DB61C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A900C026-E1EE-45B3-A2F3-01EB5D33BD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A900C026-E1EE-45B3-A2F3-01EB5D33BD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A900C026-E1EE-45B3-A2F3-01EB5D33BD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A900C026-E1EE-45B3-A2F3-01EB5D33BD83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A01432-FFE8-484D-8B58-B57D0BCD02FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A01432-FFE8-484D-8B58-B57D0BCD02FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A01432-FFE8-484D-8B58-B57D0BCD02FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A01432-FFE8-484D-8B58-B57D0BCD02FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
